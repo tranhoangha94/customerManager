@@ -1,0 +1,13 @@
+export { default as Logo } from "./image/logo.png";
+export { default as Male } from "./image/male-icon.png";
+export { default as Female } from "./image/female-icon.png";
+export { default as MaleAvatar } from "./image/man.png";
+export { default as FemaleAvatar } from "./image/woman.png";
+export { ReactComponent as LogoSVG } from "./svg/logo.svg";
+export { ReactComponent as MenuButtonSVG } from "./svg/menu-button.svg";
+export { ReactComponent as GridIconSVG } from "./svg/grid-view-icon.svg";
+export { ReactComponent as ListIconSVG } from "./svg/list-view-icon.svg";
+export { ReactComponent as PlusIconSVG } from "./svg/plus.svg";
+export { ReactComponent as EditIconSVG } from "./svg/edit.svg";
+export { ReactComponent as TagsIconSVG } from "./svg/tags.svg";
+export { ReactComponent as DropDownIconSVG } from "./svg/dropdown-icon.svg";
